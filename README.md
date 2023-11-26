@@ -11,7 +11,10 @@ To get started with Go-Todo-App, clone the repository and follow the instruction
 ## Installation
 To install it, simply run go get (you have to install go first):
 ```
-go get github.com/zebra1yw/go-todo-app
+git clone this repo
+cd dir
+go build ./cmd/todo
+./todo your command flag
 ```
 
 ## Features
