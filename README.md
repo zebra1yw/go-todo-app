@@ -1,6 +1,6 @@
 # go-todo-app
 
-Go-Todo-App is a simple and efficient task management application built with Go. This application allows you to create, update, delete, and view tasks in a user-friendly manner. 
+Go-Todo-App is a simple and efficient task management application built with Go. This application allows you to create, complete, delete, and view tasks in a user-friendly manner. 
 
 ## Getting Started
 To get started with Go-Todo-App, clone the repository and follow the instructions in the README.md file.
