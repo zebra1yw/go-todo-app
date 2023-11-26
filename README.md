@@ -37,9 +37,7 @@ go build ./cmd/todo
 ## External Libraries
 | Library Name | Link | License | 
 |---|---|---|
-| simpletable | github.com/alexeyco/simpletable| MIT license|
-| go-runewidth | github.com/mattn/go-runewidth| MIT license |
-| uniseg| github.com/rivo/uniseg| MIT license |
+| simpletable | https://github.com/alexeyco/simpletable| MIT license|
 
 ## Contributions
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
