@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"flag"
 	"fmt"
-	go_todo_app "go-todo-app"
+	go_todo_app "github.com/zebra1yw/go-todo-app"
 	"io"
 	"os"
 	"strings"

@@ -1,4 +1,4 @@
-module go-todo-app
+module github.com/zebra1yw/go-todo-app
 
 go 1.21
 
