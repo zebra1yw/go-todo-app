@@ -8,7 +8,7 @@ To get started with Go-Todo-App, clone the repository and follow the instruction
 ## Installation
 To install it, simply run go get (you have to install go first):
 ```
-go get http://github.com/zebra1yw/go-todo-app
+go get github.com/zebra1yw/go-todo-app
 ```
 
 ## Features
